@@ -9,6 +9,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_native_splash: ^2.4.6
+  smooth_page_indicator: ^1.0.0
+    
+    
+    
+  
+    
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +24,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets: 
+    - assets/pricex_logo.png
+    - assets/bg_amber.png
+
+  
+
+
+

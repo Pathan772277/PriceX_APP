@@ -1,9 +1,9 @@
 flutter_native_splash:
   android: true
   ios: true
-  color: "#FFBF00"
-  image: assets/Pricex_black_logo.png
-  branding: assets/pricex_sl.png
+  color: "#2163f6"
+  image: assets/Pricex_logo.png
+ 
 
 
 
